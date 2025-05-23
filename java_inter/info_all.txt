@@ -1,0 +1,17 @@
+Java socket client server: direct run .java
+client and server : .java
+file system : to give argument right click .java project ->run as ->run configation ->give argument
+jdbc/connection : 
+
+ojdbc 14.jar ->oracle
+website:http://www.java2s.com/Code/Jar/o/Downloadojdbc14jar.htm
+bulid path save
+normal java program
+
+servlet/JSP : 
+
+Tomcat 11
+double click ->add tomcat
+dynamic web pages
+right click to start server
+web-inf me .java(servlet) .jsp(jsp) se save
